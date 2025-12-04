@@ -81,12 +81,15 @@ Bed Utilization Index is strong at 73%, indicating efficient capacity management
 📁 Hospital-Patients-Analysis
 │
 ├── 📄 Dataset/
+
 │     └── Hospital_Patient_Dataset.xlsx
 │
 ├── 📄 PBIX/
+
 │     └── Hospital Patients Analysis.pbix
 │
 ├── 📄 Screenshots/
+
 │     ├── Hospital Patients Analysis.PNG
 
 │     ├── Patients by Department.PNG
@@ -162,7 +165,9 @@ This project is released under the MIT License.
 ## 📬 Contact
 
 Md. Rezaul Repon
+
 Data Analyst (Power BI | SQL | Python)
+
 🔗 GitHub: https://github.com/MReza07
 
 📧 Email: reazulrepon@gmail.com
