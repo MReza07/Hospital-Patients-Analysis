@@ -172,7 +172,7 @@ Md. Rezaul Repon
 
 Data Analyst (Power BI | SQL | Python)
 
-Linkedin:www.linkedin.com/in/repon07
+🔗 LinkedIn:www.linkedin.com/in/repon07
 
 🔗 GitHub: https://github.com/MReza07
 
