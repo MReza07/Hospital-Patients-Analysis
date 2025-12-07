@@ -170,9 +170,9 @@ This project is released under the MIT License.
 
 Md. Rezaul Repon
 
-Linkedin:www.linkedin.com/in/repon07
-
 Data Analyst (Power BI | SQL | Python)
+
+Linkedin:www.linkedin.com/in/repon07
 
 🔗 GitHub: https://github.com/MReza07
 
