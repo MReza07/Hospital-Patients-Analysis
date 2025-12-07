@@ -79,6 +79,7 @@ Bed Utilization Index is strong at 73%, indicating efficient capacity management
 ## 📂 Project Structure
 
 📁 Hospital-Patients-Analysis
+
 │
 ├── 📄 Dataset/
 
@@ -165,6 +166,8 @@ This project is released under the MIT License.
 ## 📬 Contact
 
 Md. Rezaul Repon
+
+Linkedin:www.linkedin.com/in/repon07
 
 Data Analyst (Power BI | SQL | Python)
 
