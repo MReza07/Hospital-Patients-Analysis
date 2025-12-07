@@ -84,10 +84,12 @@ Bed Utilization Index is strong at 73%, indicating efficient capacity management
 ├── 📄 Dataset/
 
 │     └── Hospital_Patient_Dataset.xlsx
+
 │
-├── 📄 PBIX/
+├── 📄 Report/
 
 │     └── Hospital Patients Analysis.pbix
+
 │
 ├── 📄 Screenshots/
 
